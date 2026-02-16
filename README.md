@@ -1,2 +1,2 @@
 # cvs-sales-analyser
-Python project analysing sales data from a CSV file.
+Start of my python development journey, using CSV file processing. This script reads sales data from a CSV file and calculates total revenue, average sale value, and highest sale.
